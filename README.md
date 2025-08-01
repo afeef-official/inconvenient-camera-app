@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/afeef-official/inconvenient-camera-app/blob/92304f1f3f7e30e3013e46456ac0db543d818d2b/IMG-20250802-WA0005.jpg" />
 
 
 # Inconvenient Camera App 📸
@@ -30,13 +30,20 @@ We created an Android camera app that places a deliberately inconvenient barrier
 ### Technologies/Components Used
 For Software:
 - Kotlin,XML
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Android SDK,Jetpack
+- CameraX – For handling camera preview and image capture
+  Material Components – For UI components (buttons, checkboxes, etc.)
+- Android Studio 
+  Gradle
+  Emulator or Physical Android Device
+  Cursor AI (for AI-assisted development)
 
 
 ### Implementation
 For Software:
+
+# Run
+https://github.com/afeef-official/inconvenient-camera-app
 
 ### Project Documentation
 For Software:
