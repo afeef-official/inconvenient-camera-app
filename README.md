@@ -18,9 +18,6 @@ An Android camera app that places a deliberately inconvenient barrier between th
 ### The Problem (that doesn't exist)
 Taking photos has become too easy. No legal accountability, no emotional weight—just snap and go. In a world where everything is instant, we felt people weren’t earning their photos and they should go through some inconvenience.
 
-### The Solution (that nobody asked for)
-Sure! Here's the revised version using "we created this" language:
-
 **The Solution (that nobody asked for):**
 We created an Android camera app that places a deliberately inconvenient barrier between the user and the camera. Before taking a photo—or using any function—the user must complete an unnecessarily tedious verification process involving 10–12 pages of Terms and Conditions. It’s intentionally designed to frustrate, delay, and make you question why you even wanted to take a photo in the first place.
 
@@ -43,25 +40,32 @@ For Software:
 For Software:
 
 # Run
-https://github.com/afeef-official/inconvenient-camera-app
+https://github.com/afeef-official/inconvenient-camera-app<br>
+apk-file link:https://github.com/afeef-official/inconvenient-camera-app/blob/e48982c7bb13fe33e1279ead365253171ffc7f37/incovenient_camera.apk
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+1.https://github.com/afeef-official/inconvenient-camera-app/blob/ad50caaf2b7d10e4eadc49278e7b1fe2a2fb4259/login_page.jpg.jpeg<br>
+This is the login page when you open the application.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+2.https://github.com/afeef-official/inconvenient-camera-app/blob/ad50caaf2b7d10e4eadc49278e7b1fe2a2fb4259/account_created.jpg.jpeg<br>
+This is final page you reach before entering the camera software. It is reached by accepting many number of terms and conditions.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+3.https://github.com/afeef-official/inconvenient-camera-app/blob/ad50caaf2b7d10e4eadc49278e7b1fe2a2fb4259/camera_homepage.jpg.jpeg<br>
+This is the main UI of homepage of our camera with only minimal and useful buttons.
+
+4.https://github.com/afeef-official/inconvenient-camera-app/blob/ad50caaf2b7d10e4eadc49278e7b1fe2a2fb4259/camera_flip.jpg.jpeg<br>
+When you try to flip the camera button for switching the front and rear cameras, it doesn't switch the cameras,rather it flips the entire came UI
+
+5.https://github.com/afeef-official/inconvenient-camera-app/blob/ad50caaf2b7d10e4eadc49278e7b1fe2a2fb4259/zoom_captcha.jpg.jpeg<br>
+This is the captcha verification you have to verify when you try to zoom the camera lens after multiple confirmation pop-ups
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+(https://github.com/afeef-official/inconvenient-camera-app/blob/721a1e848222b0e82eae2aaf9cf3019b0b903668/video_demo.mp4)<br>
+This video demo shows the complete go through of inconvenient camera app.
 
 
 Made with ❤️ at TinkerHub Useless Projects 
